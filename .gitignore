@@ -1,0 +1,13 @@
+# generic
+.DS_Store
+.vscode
+
+# rust
+rust/debug/
+rust/target/
+rust/**/*.rs.bk
+rust/**/*.pdb
+
+# svelte
+svelte/node_modules/
+svelte/public/build/
